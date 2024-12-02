@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    margin-left: 50px;
+}
+#firstCard{
+    width: 400px;
+}
+#image1{
+width: 100%;
+height: 340px;
+}
+#firstCardDiv{
+text-align: left;
+}
+#firstDiv{
+text-align: center;
+}
+#firstCardList{
+color: blue;
+margin-left: -25px;
+}
+#firstlistleft{
+    text-align: left;
+}
+#firstCardListBtn{
+    border: solid darkgoldenrod 2px;
+    color: darkgoldenrod;
+    width:35%;
+    height: 35px;
+    font-size: 16px;
+}
+#secondCard{
+    width: 500px;
+}
+#center{
+    text-align: center;
+}
+#secondCardTitle{
+    font-size: 26px;
+}
+#centerFirstParagrap{
+color: grey;
+border: solid deeppink 4px;
+}
+#centerSecondParagrap{
+    color: green;
+}
+#secondList{
+    color: deeppink;
+text-align: left;
+}
+#buterfly{
+    width: 30%;
+}
+#divWithList{
+    border: solid 5px purple;
+    background-color: plum;
+}
+#divWithListParagrap{
+    margin-left: 25px;
+    font-size: 20px;
+}
+#thirdList{
+    color: chocolate;
+}
+#image2{
+    width: 60%;
+}
+a{
+font-size: 17px;
+color: mediumspringgreen;
+}
+#atLeft{
+text-align: right;
+width: 100%;
+}
