@@ -1,79 +1,130 @@
-h1{
+
+h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 72px;
 }
-body{
+
+body {
     margin-left: 50px;
 }
-#firstCard{
-    width: 400px;
+
+#firstCard {
+    width: 568px;
 }
-#image1{
-width: 100%;
-height: 340px;
+
+#image1 {
+    width: 100%;
+    height: 446px;
 }
-#firstCardDiv{
-text-align: left;
-}
-#firstDiv{
-text-align: center;
-}
-#firstCardList{
-color: blue;
-margin-left: -25px;
-}
-#firstlistleft{
+
+#firstCardDiv {
     text-align: left;
 }
-#firstCardListBtn{
-    border: solid darkgoldenrod 2px;
-    color: darkgoldenrod;
-    width:35%;
-    height: 35px;
-    font-size: 16px;
-}
-#secondCard{
-    width: 500px;
-}
-#center{
+
+#firstDiv {
     text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
-#secondCardTitle{
-    font-size: 26px;
+
+#firstDiv h2 {
+    font-size: 40px;
 }
-#centerFirstParagrap{
-color: grey;
-border: solid deeppink 4px;
+
+#firstCardList {
+    color: blue;
+    font-size: 16px;
+    margin-bottom: 32px;
+
 }
-#centerSecondParagrap{
-    color: green;
-}
-#secondList{
-    color: deeppink;
-text-align: left;
-}
-#buterfly{
-    width: 30%;
-}
-#divWithList{
-    border: solid 5px purple;
-    background-color: plum;
-}
-#divWithListParagrap{
-    margin-left: 25px;
+
+#firstCardDivParagrap {
+    color: #414651;
     font-size: 20px;
 }
-#thirdList{
-    color: chocolate;
+
+#firstlistleft {
+    text-align: left;
+
 }
-#image2{
-    width: 60%;
+
+#firstCardListBtn {
+    border: solid darkgoldenrod 2px;
+    color: #CEA201;
+    font-size: 24px;
+    padding: 12px 32px;
 }
-a{
-font-size: 17px;
-color: mediumspringgreen;
+
+#secondCard {
+    width: 770px;
 }
-#atLeft{
-text-align: right;
-width: 100%;
+
+#center {
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+#secondCardTitle {
+    font-size: 40px;
+}
+
+#centerFirstParagrap {
+    color: #414651;
+    font-size: 20px;
+}
+
+#centerSecondParagrap {
+    color: green;
+}
+
+#secondList {
+    color: deeppink;
+    text-align: left;
+}
+
+#buterfly {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 24px;
+}
+
+#divWithList {
+    border: solid 6px #C11574;
+    background-color:  #FFDEF0;
+    padding: 16px;
+    margin-bottom: 24px;
+}
+
+#divWithListParagrap {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+#thirdList {
+    color: #C27512;
+    font-size: 16px;
+
+}
+#thirdList li::marker{
+color: black;
+font-size: 25px;
+}
+
+#thirdList li{
+    margin-bottom: 8px;
+}
+
+#image2 {
+    width: 298.012px;
+    height: 396px;
+}
+
+a {
+    font-size: 24px;
+    color: #00D4BC;
+}
+
+#atLeft {
+    text-align: right;
+    width: 100%;
 }
